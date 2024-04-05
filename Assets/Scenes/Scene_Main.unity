@@ -5286,7 +5286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 774918335}
-  scoreMultiplier: 5
+  scoreMultiplier: 10
 --- !u!1 &520378024
 GameObject:
   m_ObjectHideFlags: 0
